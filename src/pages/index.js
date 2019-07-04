@@ -19,7 +19,7 @@ const IndexPage = () => (
           <li>
             <Scroll type="id" element="one">
               <a href="/#" className="button primary">
-                Explore
+                Who is this guy?
               </a>
             </Scroll>
           </li>

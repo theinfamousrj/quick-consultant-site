@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'RJ Hill',
+  heading: 'Raymond J Hill',
   subHeading: 'Full time Software Engineer.',
   subSubHeading: 'Part time Cloud Architect.',
   // social
