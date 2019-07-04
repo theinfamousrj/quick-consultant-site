@@ -9,7 +9,8 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'RJ Hill',
-  subHeading: 'Full time Software Engineer. Part time Cloud Architect',
+  subHeading: 'Full time Software Engineer.',
+  subSubHeading: 'Part time Cloud Architect.',
   // social
   socialLinks: [
     {
@@ -25,7 +26,7 @@ module.exports = {
     {
       icon: 'fa-linkedin',
       name: 'LinkedIn',
-      url: 'https://linkedin.com/raymondjohnhill',
+      url: 'https://www.linkedin.com/in/raymondjohnhill/',
     },
   ],
 };
